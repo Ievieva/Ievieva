@@ -1,16 +1,16 @@
-### Hi there 👋
+### 
 
-<!--
-**Ievieva/Ievieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ieva Kalnina, a Software Engineer from Latvia. 
+I am a passionate problem solver, eager to develop new skills.
+Reach me on LinkedIn: https://www.linkedin.com/in/ieva-kalnina-46a70025/
 
-Here are some ideas to get you started:
+Here are some of my projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A game of "Rock, Paper, Scissors, Lizard, Spock"
+https://github.com/Ievieva/RPSLS/tree/main/RPS
+
+A few short exercises:
+https://github.com/Ievieva/8-10
+
+And a few more:
+https://github.com/Ievieva/14-10
