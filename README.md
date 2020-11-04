@@ -1,4 +1,4 @@
-![pic](https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png =250x100)
+![pic](https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png =250x)
 ### 
 
 I am Ieva Kalnina, a Software Engineer from Latvia. 
