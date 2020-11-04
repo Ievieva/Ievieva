@@ -7,8 +7,8 @@ Reach me on [LinkedIn](https://www.linkedin.com/in/ieva-kalnina-46a70025/)
 
 Here are some of my projects:
 
-[A game of "Rock, Paper, Scissors, Lizard, Spock"](https://github.com/Ievieva/RPSLS/tree/main/RPS)
+* [A game of "Rock, Paper, Scissors, Lizard, Spock"](https://github.com/Ievieva/RPSLS/tree/main/RPS) 1
 
-[A few short exercises](https://github.com/Ievieva/8-10)
+* [A few short exercises](https://github.com/Ievieva/8-10) 2
 
-[And a few more](https://github.com/Ievieva/14-10)
+* [And a few more](https://github.com/Ievieva/14-10) 3
