@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/0d/9b/24/0d9b24189f42fb3f2563ef854b41ab0f.png" hight="20">
+<img src="https://i.pinimg.com/originals/0d/9b/24/0d9b24189f42fb3f2563ef854b41ab0f.png" width="100" hight="10">
 ### 
 
 I am Ieva Kalnina, a Software Engineer from Latvia. 
