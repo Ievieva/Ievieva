@@ -1,4 +1,4 @@
-![](https://coolbackgrounds.io/white-background/)
+![](https://coolbackgrounds.io/images/backgrounds/white/white-unsplash-9d0375d2.jpg)
 ### 
 
 I am Ieva Kalnina, a Software Engineer from Latvia. 
