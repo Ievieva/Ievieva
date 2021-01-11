@@ -4,4 +4,4 @@
 I am a passionate problem-solver, eager to develop new skills.  
 Reach me on [LinkedIn](https://www.linkedin.com/in/ieva-kalnina-46a70025/)
 
-Take a look at my projects below.
+You are welcome to check out my projects below.
